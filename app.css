@@ -1,0 +1,16 @@
+textarea {
+    width: 400px;
+    height: 200px;
+    margin: 10px 0;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px 0;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
